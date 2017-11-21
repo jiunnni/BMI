@@ -8,4 +8,6 @@
     <string name="calculate_bmi">CALCULATE BMI</string>
     <string name="height">Height</string>
     <string name="weight">Weight</string>
+    <string name="extra_bmi">Extra_BMI</string>
+    <string name="textview">TextView</string>
 </resources>
